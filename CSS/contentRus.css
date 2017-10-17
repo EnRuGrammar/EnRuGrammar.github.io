@@ -1,0 +1,170 @@
+.linkBig {
+    position: absolute;
+    width: 350px;
+    height: 20px;
+    background-color: grey;
+    opacity: 0.2;
+    border-radius: 5px;
+}
+
+.linkSmall {
+    position: absolute;
+    width: 60px;
+    height: 25px;
+    background-color: grey;
+    opacity: 0.2;
+    border-radius: 5px;
+}
+
+ #divLink_1{left: 155px; top: 504px;}
+ #divLink_2{left: 155px; top: 587px;}
+ #divLink_3{left: 155px; top: 615px;}
+ #divLink_4{left: 155px; top: 671px;}
+ #divLink_5{left: 155px; top: 726px;}
+ #divLink_6{left: 155px; top: 781px;}
+
+ #divLink_7{left: 155px; top: 877px;}
+ #divLink_8{left: 155px; top: 904px;}
+ #divLink_9{left: 155px; top: 931px;}
+ #divLink_10{left: 155px; top: 962px;}
+ #divLink_11{left: 155px; top: 1013px;}
+ #divLink_12{left: 155px; top: 1043px;}
+ #divLink_13{left: 155px; top: 1099px;}
+ #divLink_14{left: 155px; top: 1154px;}
+ #divLink_15{left: 155px; top: 1208px;}
+ #divLink_16{left: 155px; top: 1266px;}
+ #divLink_17{left: 155px; top: 1291px;}
+ #divLink_18{left: 155px; top: 1318px;}
+ #divLink_19{left: 155px; top: 1346px;}
+ #divLink_20{left: 155px; top: 1430px;}
+
+#divLink_21{left: 155px; top: 1579px;}
+ #divLink_22{left: 155px; top: 1607px;}
+ #divLink_23{left: 155px; top: 1689px;}
+ #divLink_24{left: 155px; top: 1717px;}
+ #divLink_25{left: 155px; top: 1748px;}
+ #divLink_26{left: 155px; top: 1829px;}
+
+#divLink_27{left: 650px; top: 491px;}
+#divLink_28{left: 650px; top: 546px;}
+#divLink_29{left: 650px; top: 603px;}
+#divLink_30{left: 650px; top: 631px;}
+#divLink_31{left: 650px; top: 681px;}
+#divLink_32{left: 650px; top: 736px;}
+#divLink_33{left: 650px; top: 791px;}
+#divLink_34{left: 650px; top: 847px;}
+#divLink_35{left: 650px; top: 902px;}
+#divLink_36{left: 650px; top: 957px;}
+#divLink_37{left: 650px; top: 1013px;}
+#divLink_38{left: 650px; top: 1143px;}
+#divLink_39{left: 650px; top: 1198px;}
+#divLink_40{left: 650px; top: 1282px;}
+#divLink_41{left: 650px; top: 1309px;}
+#divLink_42{left: 650px; top: 1337px;}
+#divLink_43{left: 650px; top: 1363px;}
+#divLink_44{left: 650px; top: 1445px;}
+#divLink_45{left: 650px; top: 1501px;}
+#divLink_46{left: 650px; top: 1557px;}
+#divLink_47{left: 650px; top: 1584px;}
+#divLink_48{left: 650px; top: 1667px;}
+#divLink_49{left: 650px; top: 1694px;}
+#divLink_50{left: 650px; top: 1723px;}
+#divLink_51{left: 650px; top: 1748px;}
+#divLink_52{left: 650px; top: 1830px;}
+
+#divLink_53{left: 200px; top: 2145px;}
+#divLink_54{left: 200px; top: 2176px;}
+#divLink_55{left: 200px; top: 2230px;}
+#divLink_56{left: 200px; top: 2285px;}
+#divLink_57{left: 200px; top: 2311px;}
+#divLink_58{left: 200px; top: 2396px;}
+#divLink_59{left: 200px; top: 2477px;}
+#divLink_60{left: 200px; top: 2533px;}
+#divLink_61{left: 200px; top: 2590px;}
+#divLink_62{left: 200px; top: 2643px;}
+#divLink_63{left: 200px; top: 2700px;}
+#divLink_64{left: 200px; top: 2724px;}
+#divLink_65{left: 200px; top: 2785px;}
+#divLink_66{left: 200px; top: 2923px;}
+#divLink_67{left: 200px; top: 3007px;}
+#divLink_68{left: 200px; top: 3062px;}
+#divLink_69{left: 200px; top: 3144px;}
+#divLink_70{left: 200px; top: 3227px;}
+#divLink_71{left: 200px; top: 3282px;}
+#divLink_72{left: 200px; top: 3334px;}
+#divLink_73{left: 200px; top: 3418px;}
+#divLink_74{left: 200px; top: 3503px;}
+#divLink_75{left: 200px; top: 3558px;}
+#divLink_76{left: 200px; top: 3613px;}
+#divLink_77{left: 200px; top: 3668px;}
+#divLink_78{left: 200px; top: 3724px;}
+#divLink_79{left: 200px; top: 3778px;}
+
+#divLink_80{left: 650px; top: 2120px;}
+#divLink_81{left: 650px; top: 2179px;}
+#divLink_82{left: 650px; top: 2291px;}
+#divLink_83{left: 650px; top: 2375px;}
+#divLink_84{left: 650px; top: 2431px;}
+#divLink_85{left: 650px; top: 2488px;}
+#divLink_86{left: 650px; top: 2543px;}
+#divLink_87{left: 650px; top: 2647px;}
+#divLink_88{left: 650px; top: 2674px;}
+#divLink_89{left: 650px; top: 2701px;}
+#divLink_90{left: 650px; top: 2730px;}
+#divLink_91{left: 650px; top: 2784px;}
+#divLink_92{left: 650px; top: 2892px;}
+#divLink_93{left: 650px; top: 2921px;}
+#divLink_94{left: 650px; top: 2975px;}
+#divLink_95{left: 650px; top: 3031px;}
+#divLink_96{left: 650px; top: 3059px;}
+#divLink_97{left: 650px; top: 3087px;}
+#divLink_98{left: 650px; top: 3142px;}
+#divLink_99{left: 650px; top: 3167px;}
+#divLink_100{left: 650px; top: 3198px;}
+#divLink_101{left: 650px; top: 3254px;}
+#divLink_102{left: 650px; top: 3282px;}
+#divLink_103{left: 650px; top: 3337px;}
+#divLink_104{left: 650px; top: 3393px;}
+#divLink_105{left: 650px; top: 3420px;}
+#divLink_106{left: 650px; top: 3448px;}
+#divLink_107{left: 650px; top: 3475px;}
+#divLink_108{left: 650px; top: 3505px;}
+#divLink_109{left: 650px; top: 3533px;}
+#divLink_110{left: 650px; top: 3589px;}
+#divLink_111{left: 650px; top: 3640px;}
+#divLink_112{left: 650px; top: 3669px;}
+#divLink_113{left: 650px; top: 3725px;}
+#divLink_114{left: 650px; top: 3781px;}
+
+#divLink_115{left: 190px; top: 4052px;}
+#divLink_116{left: 190px; top: 4081px;}
+#divLink_117{left: 190px; top: 4136px;}
+ #divLink_118{left: 190px; top: 4190px;}
+ #divLink_119{left: 190px; top: 4219px;}
+ #divLink_120{left: 190px; top: 4271px;}
+ #divLink_121{left: 190px; top: 4327px;}
+ #divLink_122{left: 190px; top: 4408px;}
+ #divLink_123{left: 190px; top: 4490px;}
+ #divLink_124{left: 190px; top: 4545px;}
+ #divLink_125{left: 190px; top: 4571px;}
+ #divLink_126{left: 190px; top: 4654px;}
+ #divLink_127{left: 190px; top: 4709px;}
+ #divLink_128{left: 190px; top: 4737px;}
+ #divLink_129{left: 190px; top: 4793px;}
+ #divLink_130{left: 190px; top: 4847px;}
+
+#divLink_131{left: 710px; top: 4098px;}
+ #divLink_132{left: 710px; top: 4125px;}
+ #divLink_133{left: 710px; top: 4154px;}
+ #divLink_134{left: 710px; top: 4208px;}
+ #divLink_135{left: 710px; top: 4235px;}
+ #divLink_136{left: 710px; top: 4293px;}
+ #divLink_137{left: 710px; top: 4386px;}
+ #divLink_138{left: 710px; top: 4441px;}
+ #divLink_139{left: 710px; top: 4469px;}
+ #divLink_140{left: 710px; top: 4563px;}
+ #divLink_141{left: 710px; top: 4590px;}
+ #divLink_142{left: 710px; top: 4679px;}
+ #divLink_143{left: 710px; top: 4706px;}
+ #divLink_144{left: 710px; top: 4793px;}
+ #divLink_145{left: 710px; top: 4822px;}
